@@ -116,6 +116,7 @@ class MyApp extends StatelessWidget {
                       Icons.lock_open,
                       color: Color(0xff323F4B),
                     ),
+                    suffixIcon: const Icon(Icons.visibility_off_outlined),
                     focusedBorder: OutlineInputBorder(
                       borderSide: const BorderSide(
                         color: Color(0xffE4E7EB),
